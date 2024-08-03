@@ -17,4 +17,4 @@ Customer personality analysis helps a business to modify its product based on it
 Need to perform clustering to summarize customer segments.
 
 ### Acknowledgement
-The dataset for this project is provided by Dr. Omar Romero-Hernandez.
+The dataset for this project is provided by Dr. Omar Romero-Hernandez. Kaggle. https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
