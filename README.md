@@ -1,5 +1,5 @@
 # Customer Personality Analysis
-![Customer Analysis](https://th.bing.com/th/id/OIP.RK5kYOd10q43GU60vezIcQHaDt?rs=1&pid=ImgDetMain)
+![Customer Analysis](https://m.media-amazon.com/images/G/31/amazonservices/Blog/15_Blog_3-02.jpg)
 ![Customer Segmentation](https://th.bing.com/th/id/R.62f326924a42b19b81548b4bff1a83e8?rik=ui2mVNrjGA7lJw&pid=ImgRaw&r=0)
 * Kindly review my Kaggle notebook.
 
